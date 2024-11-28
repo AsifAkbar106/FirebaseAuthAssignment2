@@ -2,7 +2,7 @@
 //  SwiftUiAuthApp.swift
 //  SwiftUiAuth
 //
-//  Created by Nirmalsinh Rathod on 06/02/24.
+//  Created by Asif Akbar
 //
 
 import SwiftUI
